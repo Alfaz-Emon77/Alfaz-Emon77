@@ -1,7 +1,7 @@
 # Alfaz Uddin Emon 
 
 ## About Me
- **IT Specialist** with expertise in **AI, Machine Learning, Data Analysis, Full-Stack Development, and Research**. Experienced in **SQA testing, frontend & backend development, database management, and Microsoft Office tools** (Word, Excel, PowerPoint). I create impactful projects leveraging **data-driven insights and innovative solutions**, with hands-on experience in **Python, C/C++, JavaScript, OpenGL, and modern web technologies**. I am dedicated to continuous learning and building scalable, efficient, and practical solutions in both software and AI research domains.  
+ **IT Specialist** with expertise in **AI, Machine Learning, Data Analysis and Research**. Experienced in **SQA testing & Automation, frontend &development, database management, and Microsoft Office tools** (Word, Excel, PowerPoint). I create impactful projects leveraging **data-driven insights and innovative solutions**, with hands-on experience in **Python, C/C++, JavaScript, OpenGL, and modern web technologies**. I am dedicated to continuous learning and building scalable, efficient, and practical solutions in both software and AI research domains.  
 
 🌐 Portfolio: [aemonportpolio.vercel.app](https://aemonportpolio.vercel.app/)  
 📊 Kaggle: [kaggle.com/alfazemon](https://www.kaggle.com/alfazemon)
